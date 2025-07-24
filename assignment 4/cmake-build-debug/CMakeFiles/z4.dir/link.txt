@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/z4.dir/src/data.c.o CMakeFiles/z4.dir/src/z4.c.o -o z4  -lm
